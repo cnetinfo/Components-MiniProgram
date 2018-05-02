@@ -56,3 +56,11 @@ Page({
   }
 })
 ```
+```Javascript
+/**index.json**/
+{
+  "usingComponents": {
+    "dialog": "../../components/dialog/dialog"
+  }
+}
+```
