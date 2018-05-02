@@ -3,6 +3,8 @@
 
 dialog使用
 <!--index.wxml-->
+```HTML
+import 'whatwg-fetch'
 <dialog id='dialog' 
   title='修改价格' 
   content='原价：4500.00/元' 
@@ -15,6 +17,7 @@ dialog使用
   </view>
 </dialog>
 <button type="primary" bindtap="showDialog"> 弹框组件! </button>
+```
 
 /**index.wxss**/
 .wx-input{
@@ -26,6 +29,7 @@ dialog使用
 }
 
 /**index.js**/
+```Javascript
 Page({
   /**
  * 生命周期函数--监听页面初次渲染完成
@@ -49,5 +53,5 @@ Page({
     console.log('你点击了确定');
     this.dialog.hideDialog();
   }
-
 })
+```
