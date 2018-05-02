@@ -64,5 +64,7 @@ Page({
   }
 }
 ```
-
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+效果图
+![](https://github.com/cnetinfo/ImageLib/blob/master/projectImg/d1.png)  
+![](https://github.com/cnetinfo/ImageLib/blob/master/projectImg/d2.png)  
+![](https://github.com/cnetinfo/ImageLib/blob/master/projectImg/d3.png)  
