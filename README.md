@@ -2,8 +2,8 @@
 小程序组件
 
 dialog使用
-<!--index.wxml-->
 ```HTML
+<!--index.wxml-->
 <dialog id='dialog' 
   title='修改价格' 
   content='原价：4500.00/元' 
@@ -18,8 +18,8 @@ dialog使用
 <button type="primary" bindtap="showDialog"> 弹框组件! </button>
 ```
 
-/**index.wxss**/
 ```css
+/**index.wxss**/
 .wx-input{
   border-radius:30px; 
   border:1rpx solid #A5B1C3; 
@@ -29,9 +29,8 @@ dialog使用
 }
 ```
 
-/**index.js**/
-
 ```Javascript
+/**index.js**/
 Page({
   /**
  * 生命周期函数--监听页面初次渲染完成
