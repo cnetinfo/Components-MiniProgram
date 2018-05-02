@@ -4,7 +4,6 @@
 dialog使用
 <!--index.wxml-->
 ```HTML
-import 'whatwg-fetch'
 <dialog id='dialog' 
   title='修改价格' 
   content='原价：4500.00/元' 
@@ -20,6 +19,7 @@ import 'whatwg-fetch'
 ```
 
 /**index.wxss**/
+```css
 .wx-input{
   border-radius:30px; 
   border:1rpx solid #A5B1C3; 
@@ -27,8 +27,10 @@ import 'whatwg-fetch'
   line-height:45px; 
   padding:10px 0px
 }
+```
 
 /**index.js**/
+
 ```Javascript
 Page({
   /**
