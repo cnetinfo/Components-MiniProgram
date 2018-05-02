@@ -65,6 +65,7 @@ Page({
 }
 ```
 效果图
+
 ![](https://github.com/cnetinfo/ImageLib/blob/master/projectImg/d1.png)  
 ![](https://github.com/cnetinfo/ImageLib/blob/master/projectImg/d2.png)  
 ![](https://github.com/cnetinfo/ImageLib/blob/master/projectImg/d3.png)  
