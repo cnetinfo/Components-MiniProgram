@@ -1,4 +1,4 @@
-# Components-MiniProgram
+# Dialog-MiniProgram
 小程序组件
 
 dialog使用
